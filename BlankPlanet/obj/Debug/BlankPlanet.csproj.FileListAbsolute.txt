@@ -1,0 +1,6 @@
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\bin\Debug\BlankPlanet.exe.config
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\bin\Debug\BlankPlanet.exe
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\bin\Debug\BlankPlanet.pdb
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\obj\Debug\BlankPlanet.exe
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\obj\Debug\BlankPlanet.pdb
+C:\Users\micha\OneDrive\Desktop\Planet\BlankPlanet\obj\Debug\BlankPlanet.csprojAssemblyReference.cache
